@@ -1,2 +1,32 @@
-# xelarion
-Original shooting game for Sharp MZ-2000
+XELARION  V1.0
+==============
+
+シャープ MZ-2000 / MZ-2200 向けの、縦スクロールシューティングです。
+自機のショットで空中の敵を、ボムで地上の目標を攻撃します。
+4面ごとに大ボスが現れます。
+Claude を使って制作しました。
+
+■ ファイル
+  XELARION.mzt   ゲーム本体(MZT 形式、ディスクなしで起動できます)
+
+■ 起動
+  XELARION.mzt を、テープ(IPL)から読み込んで起動します。
+  エミュレータでは、MZT ファイルをテープとして読み込んでください。
+
+■ 操作(テンキー)
+  8 2 4 6    移動
+  X          ショット
+  Z          ボム
+  SPACE      ポーズ
+  1 - 5      スクロール速度
+  6          最高速
+  S          サウンド ON / OFF
+
+  タイトル   8 2 で選んで X で決定
+  OPTION     SOUND / SPEED / LIVES(自機の数) / START STAGE(開始面)
+             HOW TO PLAY(遊び方) / BACK
+
+■ 動作確認
+  Emuz-2200
+
+(C) NEZIPOP  2026
